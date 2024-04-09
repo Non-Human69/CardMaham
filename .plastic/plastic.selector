@@ -1,0 +1,4 @@
+repository "AgranaCards@agrananos@cloud"
+  path "/"
+    br "/main"
+    co "/main"
